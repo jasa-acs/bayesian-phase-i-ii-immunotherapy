@@ -8,6 +8,12 @@ Immunotherapy is an innovative treatment approach that stimulates a patient's im
 
 KEYWORDS: Immunotherapy, phase I/II trial, dose finding, immune response, risk-benefit tradeoff, Bayesian adaptive design
 
-## Instructions
+## Instructions for Use
+
+### Code
 
 Run the R code to reproduce the simulation results. Further instructions are provided as comments in the code.
+
+### Data
+
+None.
