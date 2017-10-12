@@ -1,6 +1,6 @@
 # A Bayesian Phase I/II Trial Design for Immunotherapy
 
-This repository contains the code supporting [*A Bayesian Phase I/II Trial Design for Immunotherapy*](http://www.tandfonline.com/doi/full/10.1080/01621459.2017.1383260) by Liu, Guo, and Yuan.
+This repository contains the code supporting the JASA Applications & Case Studies paper [*A Bayesian Phase I/II Trial Design for Immunotherapy*](http://www.tandfonline.com/doi/full/10.1080/01621459.2017.1383260) by Suyu Liu, Beibei Guo, and Ying Yuan.
 
 ## Abstract
 
