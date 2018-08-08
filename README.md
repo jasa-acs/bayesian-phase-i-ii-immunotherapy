@@ -2,18 +2,32 @@
 
 This repository contains the code supporting the JASA Applications & Case Studies paper [*A Bayesian Phase I/II Trial Design for Immunotherapy*](http://www.tandfonline.com/doi/full/10.1080/01621459.2017.1383260) by Suyu Liu, Beibei Guo, and Ying Yuan.
 
-## Abstract
+# Author Contributions Checklist Form
 
-Immunotherapy is an innovative treatment approach that stimulates a patient's immune system to fight cancer. It demonstrates characteristics distinct from conventional chemotherapy and stands to revolutionize cancer treatment. We propose a Bayesian phase I/II dose-finding design that incorporates the unique features of immunotherapy by simultaneously considering three outcomes: immune response, toxicity and efficacy. The objective is to identify the biologically optimal dose, defined as the dose with the highest desirability in the risk-benefit tradeoff. An Emax model is utilized to describe the marginal distribution of the immune response. Conditional on the immune response, we jointly model toxicity and efficacy using a latent variable approach. Using the accumulating data, we adaptively randomize patients to experimental doses based on the continuously updated model estimates. A simulation study shows that our proposed design has good operating characteristics in terms of selecting the target dose and allocating patients to the target dose.
+## Data
 
-KEYWORDS: Immunotherapy, phase I/II trial, dose finding, immune response, risk-benefit tradeoff, Bayesian adaptive design
+### Abstract (Mandatory)
+
+This is a trial design paper. No data are involved.
+
+## Code
+
+### Abstract (Mandatory)
+
+The code is used to generate the results in Section 3 and Table 2.
+
+### Description (Mandatory)
+
+- How delivered (R package, Shiny app, etc.): R code
+- Licensing information (default is MIT License): MIT License
+- Link to code/repository (e.g., github.com, bitbucket.org; this need not be the actual link at time of
+submission but if not, it should indicate where the code will be deposited if the manuscript is
+accepted)
+- Version information (e.g., for a Git repository, the number or branch+commit)
 
 ## Instructions for Use
 
-### Code
+### Reproducibility (Mandatory)
 
-Run the R code to reproduce the simulation results. Further instructions are provided as comments in the code.
-
-### Data
-
-None.
+- What is to be reproduced (e.g., "All tables and figure from paper", "Tables 1-4”, etc.): All simulation results in Table 2
+- How to reproduce analyses (e.g., workflow information, makefile, wrapper scripts): Run the R code
