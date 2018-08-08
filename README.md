@@ -20,9 +20,6 @@ The code is used to generate the results in Section 3 and Table 2.
 
 - How delivered (R package, Shiny app, etc.): R code
 - Licensing information (default is MIT License): MIT License
-- Link to code/repository (e.g., github.com, bitbucket.org; this need not be the actual link at time of
-submission but if not, it should indicate where the code will be deposited if the manuscript is
-accepted)
 - Version information (e.g., for a Git repository, the number or branch+commit)
 
 ## Instructions for Use
